@@ -17,7 +17,7 @@ New to GitHub? No sweat. Accounts are free, and there's plenty of help around if
 * Socrata (data portal platform) help videos: https://explore.data.gov/videos
 * Socrata API documentation: http://data.consumerfinance.gov/api/docs/
 * CFPB organization on GitHub: https://github.com/cfpb?tab=members
-* CFPB on [Twitter]() and [Facebook]()
+* CFPB on [Twitter](https://twitter.com/CFPB) and [Facebook](https://www.facebook.com/CFPB)
 
 (This repo was started by Dave Guarino, but purely to get people talking to one another. If it's helpful, you can ping me on Twitter at [@allafarce](https://twitter.com/allafarce)).
 
