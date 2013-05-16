@@ -9,4 +9,15 @@ This repo is meant to be a meeting ground, discussion forum, and code repository
 
 * **Code**: Contribute code that is helpful for working with the database (for example: cleaning, analysis, or API wrapping).
 
+New to GitHub? No sweat. Accounts are free, and there's plenty of help around if you have questions. 
+
+## Useful Links
+
+* The raw complaints data: https://data.consumerfinance.gov/dataset/Consumer-Complaints/x94z-ydhh?
+* Socrata (data portal platform) help videos: https://explore.data.gov/videos
+* Socrata API documentation: http://data.consumerfinance.gov/api/docs/
+* CFPB organization on GitHub: https://github.com/cfpb?tab=members
+* CFPB on [Twitter]() and [Facebook]()
+
+(This repo was started by Dave Guarino, but purely to get people talking to one another. If it's helpful, you can ping me on Twitter at [@allafarce](https://twitter.com/allafarce)).
 
