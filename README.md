@@ -1,0 +1,12 @@
+# CFPB Consumer Complaints Database
+
+## A Place for Collaboration
+This repo is meant to be a meeting ground, discussion forum, and code repository for folks working with the [consumer complaints database](http://www.consumerfinance.gov/complaintdatabase/) run by the Consumer Financial Protection Bureau ([@CFPB](https://github.com/cfpb)).
+
+## How to Get Involved
+
+* **Collaborative communication**: Use the [GitHub Issues](https://github.com/daguar/cfpb-consumer-complaints-database/issues) section of this repo to collaborate by discussing ideas, problems, findings, and anything else related to working with the complaints database.
+
+* **Code**: Contribute code that is helpful for working with the database (for example: cleaning, analysis, or API wrapping).
+
+
